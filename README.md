@@ -1,5 +1,4 @@
 # Olá, eu sou o Brendon.
-## Analista de SOC & NOC | Blue Team
 
 Atuo com monitoramento de ameaças, resposta a incidentes e análise de segurança.
 
